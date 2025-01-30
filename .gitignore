@@ -1,0 +1,12 @@
+# env
+.env
+
+# env folder
+venv/
+env/
+
+# Streamlit folder
+.streamlit/
+
+# Secrets
+secrets.toml
